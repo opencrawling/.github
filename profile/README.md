@@ -1,5 +1,9 @@
 # Welcome to OpenCrawling 🌐
 
+<p align="center">
+  <img src="images/logo.png" alt="OpenCrawling Logo" width="250" />
+</p>
+
 **High-Performance Enterprise Data Ingestion, Federation & Security Framework for AI and Search.**
 
 OpenCrawling is an open-source, cloud-native framework designed to solve the hardest problem in enterprise AI and search: **securely connecting siloed content repositories to modern ingestion pipelines.** 
