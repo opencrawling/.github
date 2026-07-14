@@ -51,9 +51,10 @@ Our ecosystem is organized into clean, decoupled modules:
 
 We are building a community of developers, architects, and data engineers passionate about open-source enterprise data integration and AI infrastructure. 
 
-*   📖 **Read the Documentation:** [Link to Docs/Website]
+*   📖 **Read the Documentation:** [Wiki](https://github.com/opencrawling/opencrawling/wiki)
 *   🐛 **Report Issues:** Check individual repository issue trackers.
-*   💬 **Join the Discussion:** [Link to Discord / GitHub Discussions]
+*   💬 **Join the Discussion:** [Slack Community](https://join.slack.com/t/opencrawling/shared_invite/zt-43r2anb6q-YLoBsOrxCCcBWU5Up3P1rw)
+*   ✉️ **Official Contact:** Reach out to us at [info@opencrawling.org](mailto:info@opencrawling.org) for general inquiries or security reports.
 *   ⭐ **Star our Repositories:** If you find our work useful, give us a star!
 
 *Built with passion for the Open Source and AI community.*
