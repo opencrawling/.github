@@ -21,6 +21,7 @@ OpenCrawling is built from the ground up to address these challenges with modern
 *   🔒 **Enterprise Security First (ACL Mapping):** Built-in synchronization of native Access Control Lists (ACLs). We ensure that your AI search engines and RAG pipelines only return documents the querying user is explicitly authorized to see.
 *   ⚡ **High-Performance & Non-Blocking:** Powered by **Java 25** and **Spring Boot 4**, leveraging Virtual Threads and structured concurrency for massive I/O throughput with minimal resource footprint.
 *   🤖 **AI & RAG Ready:** Native support for on-the-fly document transformation, text extraction, semantic chunking, and embedding generation before payloads hit vector stores.
+*   📊 **AI-Powered Observability (AIOps):** Native OpenTelemetry (OTel) correlated traces and Micrometer metrics, providing automated root-cause analysis (RCA) and performance diagnostics inside the Admin UI.
 *   🔌 **Pluggable SPI Architecture:** Clean, modular interfaces that make it trivial for developers to build and plug in custom connectors without altering the core orchestration engine.
 
 ---
